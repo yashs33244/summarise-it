@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "youtube-summariser",
   "private": true,
   "scripts": {
     "build": "turbo run build",
